@@ -14,5 +14,5 @@ pip3 install jsonpickle
 <<<<<<< HEAD
 sudo rm -rf CSCI5253-Lab6
 git clone https://github.com/emilydoherty/lab6-retry.git
-cd DCSC_lab6/
+cd lab6-retry/
 # [END startup_script]
