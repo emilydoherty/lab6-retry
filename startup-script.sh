@@ -13,6 +13,6 @@ pip3 install flask
 pip3 install jsonpickle
 <<<<<<< HEAD
 sudo rm -rf CSCI5253-Lab6
-git clone https://github.com/cara-spencer/DCSC_lab6.git
+git clone https://github.com/emilydoherty/lab6-retry.git
 cd DCSC_lab6/
 # [END startup_script]
